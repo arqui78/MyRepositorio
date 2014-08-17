@@ -10,7 +10,7 @@ public Class Hola_GitHub{
 		this.mensaje = "Hola GitHub";
 		saludar();
 	}
-	private saludar(){
+	private void saludar(){
 		System.out.println(this.mensaje);
 
 	}
